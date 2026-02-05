@@ -1,0 +1,1 @@
+// UIManager.ts content placeholder

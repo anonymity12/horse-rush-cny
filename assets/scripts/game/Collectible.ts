@@ -1,0 +1,1 @@
+// Collectible.ts content placeholder
